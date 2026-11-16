@@ -2,12 +2,12 @@
 
 Kode inti dapat dibuka langsung di GitHub:
 
-- [Source agent](app/src/main/java/com/mythos/app/agent/)
-- [Source UI Compose](app/src/main/java/com/mythos/app/ui/)
-- [Unit tests agent](app/src/test/java/com/mythos/app/agent/)
-- [Unit tests UI dan Typography](app/src/test/java/com/mythos/app/ui/)
+- [Source agent](https://github.com/jilpijesi-cpu/Abelia/tree/main/app/src/main/java/com/mythos/app/agent)
+- [Source UI Compose](https://github.com/jilpijesi-cpu/Abelia/tree/main/app/src/main/java/com/mythos/app/ui)
+- [Unit tests agent](https://github.com/jilpijesi-cpu/Abelia/tree/main/app/src/test/java/com/mythos/app/agent)
+- [Unit tests UI dan Typography](https://github.com/jilpijesi-cpu/Abelia/tree/main/app/src/test/java/com/mythos/app/ui)
 
-Untuk **seluruh source proyek**—termasuk konfigurasi Gradle, resource, dokumentasi, dan file lain—unduh [ABELIA-Mythos-full-source.zip](ABELIA-Mythos-full-source.zip) dari halaman repo.
+Untuk **seluruh source proyek**—termasuk konfigurasi Gradle, resource, dokumentasi, dan file lain—unduh [ABELIA-Mythos-full-source.zip](https://github.com/jilpijesi-cpu/Abelia/raw/refs/heads/main/ABELIA-Mythos-full-source.zip).
 
 ## Build
 
